@@ -1,5 +1,5 @@
-# Pharmacovigilance-clinical-database
-Welcome everyone in new development
+# Pharmacovigilance-clinical-database.
+Welcome everyone in new development.
 Our ultimate goal is to offer an affordable and efficient database solution.
 This is a new repositiory. I'm interested in creating a cloud-based Saas program that utilizes an open-source clinical database.
 If you're unfamiliar with clinical databases, it's important to understand the basics before getting involved in the development of this project, which is open to anyone who would like to contribute.
