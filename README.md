@@ -1,5 +1,5 @@
 # Hello world
-We weolcme contributors
+We welcome contributors
 
 # Our objective
 Our primary objective in undertaking this open-source project is to provide a cost-effective database solution for companies, as the current costs associated with database management can significantly impact the pricing of drugs in the market. By offering a low-cost database solution, we hope to contribute to reducing the overall cost of drugs in the local market. We plan to achieve this by establishing agreements with companies that require our database for their processing needs.
