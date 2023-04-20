@@ -1,3 +1,9 @@
+# Hello world
+We weolcme contributors
+
+# Our objective
+Our primary objective in undertaking this open-source project is to provide a cost-effective database solution for companies, as the current costs associated with database management can significantly impact the pricing of drugs in the market. By offering a low-cost database solution, we hope to contribute to reducing the overall cost of drugs in the local market. We plan to achieve this by establishing agreements with companies that require our database for their processing needs.
+
 # Pharmacovigilance-clinical-database.
 Welcome everyone in new development.
 Our ultimate goal is to offer an affordable and efficient database solution.
@@ -15,3 +21,6 @@ Integration with other systems: This involves writing code to integrate the data
 
 Some of the specific codes that are commonly used are SQL (standard query language) which is used to create and manipulate databases,as well as programming languages such as Java, Python, and PHP, which are used to interact with the database and perform more complex operations.
 Other important technologies may include database management systems (DBMS) such as MySQL, Oracle, and Microsoft SQL Server, which provide the underlying infrastructure for the database.
+
+# We value our contributors
+In the initial phase, our plan is to provide training to individuals who will be contributing to this project. As a token of appreciation, we have decided to allocate 12% of our profits to these valuable contributors. Our goal is to achieve this within a three-year timeframe.
