@@ -23,6 +23,4 @@ Some of the specific codes that are commonly used are SQL (standard query langua
 Other important technologies may include database management systems (DBMS) such as MySQL, Oracle, and Microsoft SQL Server, which provide the underlying infrastructure for the database.
 
 # We value our contributors
-In the initial phase, our plan is to provide training to individuals who will be contributing to this project. As a token of appreciation, we have decided to allocate some percentage from our profits to these valuable contributors for first year of income. Our goal is to achieve this within a three-year timeframe.
 
-Stay tuned for the update regarding the sahe of profits.
